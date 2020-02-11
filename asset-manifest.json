@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/techstore/static/css/main.ff200364.chunk.css",
+    "main.js": "/techstore/static/js/main.6f5c55dd.chunk.js",
+    "main.js.map": "/techstore/static/js/main.6f5c55dd.chunk.js.map",
+    "runtime-main.js": "/techstore/static/js/runtime-main.009ce497.js",
+    "runtime-main.js.map": "/techstore/static/js/runtime-main.009ce497.js.map",
+    "static/js/2.7dadaa61.chunk.js": "/techstore/static/js/2.7dadaa61.chunk.js",
+    "static/js/2.7dadaa61.chunk.js.map": "/techstore/static/js/2.7dadaa61.chunk.js.map",
+    "index.html": "/techstore/index.html",
+    "precache-manifest.e078aa5d7b9c1f68bc6561f671edc5dd.js": "/techstore/precache-manifest.e078aa5d7b9c1f68bc6561f671edc5dd.js",
+    "service-worker.js": "/techstore/service-worker.js",
+    "static/css/main.ff200364.chunk.css.map": "/techstore/static/css/main.ff200364.chunk.css.map",
+    "static/media/App.css": "/techstore/static/media/bg-image.635065a9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.009ce497.js",
+    "static/js/2.7dadaa61.chunk.js",
+    "static/css/main.ff200364.chunk.css",
+    "static/js/main.6f5c55dd.chunk.js"
+  ]
+}
